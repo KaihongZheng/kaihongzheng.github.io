@@ -324,3 +324,15 @@ defaults:
       comments: # true
       share: true
       related: true
+# Navigation Bar Settings (網站導航列設定)
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "CV"
+    url: "/cv/"
+  - title: "Contact"
+    url: "/contact/"
