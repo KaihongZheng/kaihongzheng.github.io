@@ -1,5 +1,5 @@
 ---
-title: "Kai-Hong Zheng 鄭凱鴻77"
+title: "Kai-Hong Zheng 鄭凱鴻"
 ---
 
 # Hello, I'm Kaihong Zheng 👋
