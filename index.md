@@ -3,11 +3,11 @@ title: "Kaihong Zheng's Personal Website"
 ---
 
 # Hello, I'm Kaihong Zheng 👋
-I am a master's student in Applied Mathematics with a strong interest in Financial Mathematics and Data Analysis.
+I am a master's student in Applied Mathematics with a strong interest in Financial Mathematics.
 
 ## 🔹 About Me
 - 🎓 **Education**: Master's in Applied Mathematics, National Yang Ming Chiao Tung University
-- 📚 **Research Interests**: Financial Mathematics, Quantitative Analysis, Statistics
+- 📚 **Research Interests**: Financial Mathematics, BTC options pricing and hedging.
 - 🏢 **Career Goal**: To enter the finance industry and apply mathematical and programming skills to solve complex problems.
 
 ## 🔹 Contact
