@@ -2,7 +2,7 @@
 title: "Kai-Hong Zheng 鄭凱鴻"
 ---
 
-# Hello, I'm Kaihong Zheng 👋
+# Kai-Hong Zheng 鄭凱鴻
 I am a master's student in Applied Mathematics with a strong interest in Financial Mathematics.
 
 ## 🔹 About Me
