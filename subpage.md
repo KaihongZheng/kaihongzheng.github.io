@@ -1,9 +1,10 @@
 ---
-title: "My Subpage"
+title: "Map, Food, Smiles"
 layout: default
 ---
 
-# My Subpage 🌍
+# Map, Food, Smiles
+Created by Kaihong Zheng on 20250311
 
 ## 🌟 About This Page
 This is an example of a subpage on my website.
