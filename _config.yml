@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Kai-Hong Zheng | Personal Website"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Hi, I'm Kai-Hong Zheng! Welcome to my site
 name                     : "ZHENG,KAI-HONG"
 description              : "Exploring the intersection of mathematics and finance. Welcome to my website!"
 email: "w9772397723@gmail.com"  # ✅ 新增這行
@@ -122,10 +122,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "mailto:w9772397723@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+       url: "https://github.com/KaihongZheng"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
