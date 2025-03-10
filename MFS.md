@@ -6,20 +6,21 @@ layout: default
 # Map, Food, Smiles
 Created by Kaihong Zheng on 20250311
 
-## 📍 About This Page
-This is an example of a standalone webpage on my GitHub Pages site.
+## Map
+I was born in Taichung and later moved to Taoyuan, where I grew up.
 
-## 📌 My Journey
-- 🌍 **Born in Taiwan**
-- 🎓 **Studied Applied Mathematics**
-- 📈 **Interested in Quantitative Finance**
-- 💼 **Looking for opportunities in Finance Industry**
+I studied Applied Mathematics at NYCU during my undergraduate years and am currently pursuing a master's degree in Applied Mathematics at NYCU.
 
-## 📸 My Gallery
-![Image 1](https://via.placeholder.com/400)
-![Image 2](https://via.placeholder.com/400)
+![image](https://github.com/user-attachments/assets/636ef334-89b7-4faa-84bf-485288cb226e)
 
-## 🎥 My Interests
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+
+## Food
+![image](https://github.com/user-attachments/assets/55b8c21f-c6e3-4042-bb87-9bfa7f666cd6)
+
+## Smiles
+![image](https://github.com/user-attachments/assets/0cda4576-3163-4686-a397-b12b34dff0d1)
+![image](https://github.com/user-attachments/assets/e18e596d-5e34-456a-9604-8bc7513e9a93)
+
+
 
 [⬅ Back to Home](./)
