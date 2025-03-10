@@ -23,7 +23,7 @@ subtitle                 : "Hi, I'm Kai-Hong Zheng! Welcome to my site
 name                     : "ZHENG,KAI-HONG"
 description              : "Exploring the intersection of mathematics and finance. Welcome to my website!"
 email: "w9772397723@gmail.com"  # ✅ 新增這行
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://kaihongzheng.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "KaihongZheng/kaihongzheng.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
