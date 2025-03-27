@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Map, Food, Smiles
-Created by Kaihong Zheng on 20250311
+Created by Kaihung Cheng on 20250311
 
 ## Map
 I was born in Taichung and later moved to Taoyuan, where I grew up.
